@@ -61,9 +61,9 @@ Free online courses offered by Big tech Companies
 - [Inbound Marketing Certification Course](https://coursmooc.com/courses/inbound-marketing-certification-course/) - HubSpot Academy ★★★★★(87)
 - [Customer Engagement Fundamentals Course](https://coursmooc.com/courses/customer-engagement-fundamentals-course/) - HubSpot Academy ★★★★☆(73)
 - [Discovering Entrepreneurship Course](https://coursmooc.com/courses/discovering-entrepreneurship-course/) - MIT ★★★★★(82)
-- [Engaging Stakeholders Course](https://coursmooc.com/courses/engaging-stakeholders-course/) - University of Cambridge ★★★★☆(76)
-- [Business Venture Course](https://coursmooc.com/courses/business-venture-course/) - Stanford University ★★★★★(89)
-- [Managing Business Venture Course](https://coursmooc.com/courses/managing-business-venture-course/) - Stanford University ★★★★☆(80)
+- [Engaging Stakeholders Course](https://coursmooc.com/courses/engaging-stakeholders-course/) - Cisco ★★★★☆(76)
+- [Business Venture Course](https://coursmooc.com/courses/business-venture-course/) - Cisco ★★★★★(89)
+- [Managing Business Venture Course](https://coursmooc.com/courses/managing-business-venture-course/) - Cisco ★★★★☆(80)
 
 ## 💻 Computer Science
 
