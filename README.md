@@ -2,7 +2,7 @@
 
 Free online courses offered by Big tech Companies
 
-[Coursmooc.com](https://coursmooc.com) has made a collection of all these, here are the 12 categories:
+[Coursmooc.com](https://coursmooc.com/courses/) has made a collection of all these, here are the 12 categories:
 
 ## 📚 Categories
 
